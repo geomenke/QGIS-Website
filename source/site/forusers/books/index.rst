@@ -20,6 +20,15 @@ Note2: After the english books there are french, greek and polish items
 English
 =======
 
+Discover QGIS 3.x
+********************************************
+
+A comprehensive up-to-date workbook built for both the classroom and professionals looking to build their skills.
+Discover QGIS 3.x is an update of the original title, using QGIS 3.6, covering Spatial analysis, Data management, and Cartography.
+
+* https://locatepress.com/dq3
+* Author: Kurt Menke
+* Date: April 2019
 
 Hands-On Geospatial Analysis with R and QGIS
 ********************************************
